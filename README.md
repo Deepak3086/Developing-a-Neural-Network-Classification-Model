@@ -43,9 +43,9 @@ Evaluate the trained model on test data using accuracy, confusion matrix, and cl
 
 ## PROGRAM:
 
-### Name: DHAMINI S
+### Name: DEEPAK JG
 
-### Register Number: 212224040064
+### Register Number: 212224220019
 
 ```python
 class PeopleClassifier(nn.Module):
@@ -99,11 +99,12 @@ train_model(model,train_loader,criterion,optimizer,epochs=100)
 
 
 ## Classification Report
-<img width="600" height="428" alt="image" src="https://github.com/user-attachments/assets/e4a6d4e2-2a9e-40a3-9b84-4b84b3330da6" />
+<img width="745" height="425" alt="image" src="https://github.com/user-attachments/assets/61844647-c626-40c8-b089-4730821debcd" />
+
 
 ### New Sample Data Prediction
 
-<img width="422" height="103" alt="image" src="https://github.com/user-attachments/assets/0f59e956-8e37-42be-909c-e74b77ab36c1" />
+<img width="470" height="131" alt="image" src="https://github.com/user-attachments/assets/efb85607-4d27-4320-adfe-6337211de14c" />
 
 ## RESULT
 This program has been executed successfully.
